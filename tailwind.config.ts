@@ -9,8 +9,14 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+        "dark-blue": "#2C3E50",
+        "light-blue": "#3498DB",
+        "light-gray": "#ECF0F1",
+        "light-green": "#2ECC71",
+      },
+      fontFamily: {
+        Jost: ["Jost", "sans-serif"],
+        Poppins: ["Poppins", "sans-serif"],
       },
     },
   },
