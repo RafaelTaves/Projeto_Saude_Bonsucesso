@@ -1,3 +1,20 @@
+# Projeto Saúde Bonsucesso
+
+Este projeto visa oferecer uma plataforma digital para a gestão de informações de saúde, promovendo o acesso a serviços médicos. Através de uma interface intuitiva, buscamos facilitar a comunicação entre profissionais de saúde e pacientes, através de uma plataforma com informações confiavéis e segura.
+
+## Objetivos do Projeto
+
+- Facilitar o agendamento de consultas médicas.
+- Oferecer um banco de dados seguro para informações dos pacientes.
+- Proporcionar uma experiência amigável e acessível para todos os usuários.
+
+## Tecnologias Utilizadas
+
+- React
+- Next.js
+- Typescript
+
+**README PADRÃO DO NEXTX:**
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started

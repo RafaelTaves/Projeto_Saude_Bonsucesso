@@ -13,6 +13,9 @@ const config: Config = {
         "light-blue": "#3498DB",
         "light-gray": "#ECF0F1",
         "light-green": "#2ECC71",
+        "light-red-I": "#ab291b",
+        "mid-red-I": "#922013",
+        "dark-red-I": "#712013",
       },
       fontFamily: {
         Jost: ["Jost", "sans-serif"],
