@@ -4,8 +4,8 @@ Este projeto visa oferecer uma plataforma digital para a gestão de informaçõe
 
 ## Objetivos do Projeto
 
-- Facilitar o agendamento de consultas médicas.
-- Oferecer um banco de dados seguro para informações dos pacientes.
+- Facilitar o acesso a informações médicas.
+- Ser uma fonte confiável para os moradores de Bonsucesso.
 - Proporcionar uma experiência amigável e acessível para todos os usuários.
 
 ## Tecnologias Utilizadas
