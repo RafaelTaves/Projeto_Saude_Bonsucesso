@@ -15,9 +15,9 @@ export default function Header ({  onSearch }: HeaderProps) {
     return(
 <div className="flex w-full bg-mid-red-I h-20 justify-between px-2 md:px-8">
       <img
-        src="/images/MedicalFantasyLogo.jpg"
+        src="/images/logoProjetoSaude.png"
         alt="Company Logo"
-        className="h-16 my-auto"
+        className="h-20 my-auto"
       />
       <div className="flex h-full items-center text-black">
         <input
